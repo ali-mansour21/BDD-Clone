@@ -511,6 +511,9 @@ header img {
   background-color: #000;
   cursor: pointer;
 }
+.trending .dot .checked {
+  background-color: #000;
+}
 .community {
   display: flex;
   justify-content: center;
